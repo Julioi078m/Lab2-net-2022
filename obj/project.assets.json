@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dan yhazard\\.nuget\\packages\\": {}
+    "C:\\Users\\Julio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan yhazard\\Downloads\\Laboratorio2\\Laboratorio2\\Program.csproj",
-      "projectName": "Program",
-      "projectPath": "C:\\Users\\Dan yhazard\\Downloads\\Laboratorio2\\Laboratorio2\\Program.csproj",
-      "packagesPath": "C:\\Users\\Dan yhazard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan yhazard\\Downloads\\Laboratorio2\\Laboratorio2\\obj\\",
+      "projectUniqueName": "C:\\Users\\Julio\\Documents\\Documentos y tareas Kinal\\laboratorio 2\\Laboratorio II\\Laboratorio II.csproj",
+      "projectName": "Laboratorio II",
+      "projectPath": "C:\\Users\\Julio\\Documents\\Documentos y tareas Kinal\\laboratorio 2\\Laboratorio II\\Laboratorio II.csproj",
+      "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Julio\\Documents\\Documentos y tareas Kinal\\laboratorio 2\\Laboratorio II\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dan yhazard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
